@@ -1,5 +1,5 @@
 ## Case Study Project: Cyclistic Bike Share
-<img src = "bike.jpg" style = "width:200px;height:180px" align = left>
+
 
 
 ## Scenario :
